@@ -3,6 +3,7 @@ Repository for the project of the class 'Remote sensing data'. The speckle pheno
 
 ![example image](example.png)
 
+Students: Lucas Elbert, Björn Michele
 ### References:
 
 "Zhang, K., Zuo, W., & Zhang, L. (2018). FFDNet: Toward a fast and flexible solution for CNN-based image denoising" https://arxiv.org/abs/1710.04026.
